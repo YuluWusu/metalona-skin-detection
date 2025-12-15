@@ -1,8 +1,4 @@
 # Metalona-Skin-Detection
-Tuyệt vời\! Tôi sẽ chuyển sang tiếng Anh.
-
-Dựa trên mã nguồn bạn đã cung cấp, tôi đã soạn thảo lại file README chuyên nghiệp bằng tiếng Anh (Markdown format) cho dự án **Skin Cancer Diagnosis Web App**.
-
 -----
 
 # 🩺 Skin Cancer Diagnosis Web App
