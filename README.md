@@ -47,8 +47,8 @@ To get a local copy up and running, follow these simple steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/YuluWusu/metalona-skin-detection.git
+    cd metalona-skin-detection
     ```
 
 2.  **Run the Frontend:**
